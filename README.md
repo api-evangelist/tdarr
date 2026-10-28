@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tdarr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tdarr.io/
+Tdarr provides a distributed, automated video transcoding platform that enables users to efficiently convert media files across multiple formats and codecs. The service offers a web‑based interface, supports plugin extensions, and is designed for scalability in media processing workflows.
+
+**Areas:** Company · Video · Transcoding · Automation · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tdarr.io/)
+- [Documentation](https://docs.tdarr.io/)
+- [Getting started](https://docs.tdarr.io/docs/installation/getting-started)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tdarr/](https://apis.io/providers/tdarr/).
